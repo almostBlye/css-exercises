@@ -24,3 +24,37 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+
+/* solition */
+
+body {
+  text-align: center;
+}
+
+/* .title {
+  display: flex;
+  justify-content: center;
+} */
+
+.items {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+  gap: 52px;
+
+}
+
+.item {
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-basis: 200px;
+  gap: 10px; */
+  max-width: 200px;
+}
+
+.text {
+  text-align: center;
+}
